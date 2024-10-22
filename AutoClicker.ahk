@@ -10,8 +10,8 @@ interval := 1000  ; Default interval in milliseconds
 
 ; GUI
 Gui, Add, Text,, Step (s):
-Gui, Add, Edit, vIntervalInput ym w40, 30
-Gui, Add, Button, gStartStop w40, Start
+Gui, Add, Edit, vIntervalInput ym w100, 30
+Gui, Add, Button, gStartStop w100, Start
 Gui, Show,, _
 
 return
