@@ -6,7 +6,7 @@ A simple, portable auto clicker for Windows built using AutoHotkey. This applica
 
 ## How to Use
 
-1. Download the `AutoClicker.exe` file from [here](https://github.com/Daniil-Horobets/SimpleAutoClicker/releases/tag/v0.1.0).
+1. Download the `AutoClicker.exe` file from [here](https://github.com/Daniil-Horobets/SimpleAutoClicker/releases).
 2. Run the executable (no installation required).
 3. Enter the interval in seconds (e.g., `1` for one second) in the GUI.
 4. Click the **Start** button to begin auto-clicking. 
