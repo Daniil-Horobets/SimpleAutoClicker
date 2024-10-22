@@ -12,6 +12,9 @@ A simple, portable auto clicker for Windows built using AutoHotkey. This applica
 4. Click the **Start** button to begin auto-clicking. 
 5. Move your cursor to the area you want to click.
 6. Click the **Stop** button to stop the auto-clicker.
+
+**Note**: You will face the "Windows protected your PC" screen because the `.exe` file is not signed with a certificate. Click **More info** → **Run anyway** or follow the steps below to compile the script yourself.
+
 ## How to Compile the Script Yourself
 
 To compile the script into a portable `.exe` file:
